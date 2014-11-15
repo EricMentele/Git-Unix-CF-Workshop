@@ -497,4 +497,39 @@
   569  history
   570  history | less
   571  cd
-  572  history > moving_around.txt
+  572  history > moving_around.txt //this makes a file called moving_around.txt with the contents of history in it
+  Git & Unix
+
+Unix was created by Ken Thompson and Dennis Ritchie
+Do one thing and do it well because it is easier to fix something that has one purpose. It is also easier to make it work great.
+Absolute path vs relative path. / designates absolute.
+You can supply a flag to a command with the - sign.
+
+ls -t this sorts things by recency of modification.
+
+ls -l shows you how things are being displayed. l stands for link.
+
+drwxr
+d dir
+rw are permissions
+
+ls -l long format
+ls -r reverse
+ls -t time
+
+| takes the output of what is on the left and adds it to the right
+ex. history | less
+> redirection operator will take the output from the left and write it to a file on the right. ~/ will designate the home directory.
+if the file already exists this operator will overwrite it. >> will append it. 
+google bash redirectionsubl moving_around.txt
+
+./ the period is a relative indicator for start here in this directory
+to rename a file us mv command. ex: mv ./gue_workshop/moving_around.txt ./gue_workshop/unix_notes.txt this renames the existing file moving_around to unix_notes
+
+rm -rf deletes recursively. This means it will force delete everything in the directory. 
+. = current dir and .. = last dir
+There are hidden files that only get desplayed with ls -a a for all. 
+.git file is where git does all the background work to store everything.
+
+git checkout -- <filename> will discard changes in working directory.
+git commit -a commits all files in a dir
