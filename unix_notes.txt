@@ -1,0 +1,500 @@
+   73  /applications
+   74  armory.app
+   75  /applications/Armory.app
+   76  Armory.app
+   77  run
+   78  sass --version
+   79  sass test.scss
+   80  sass test.scss
+   81  sass --watch .
+   82  c
+   83  compass --version
+   84  compass
+   85  install ruby compass
+   86  gem update --system
+   87  gem install compass
+   88  sass --watch
+   89  sass --.
+   90  sass --watch .
+   91  gem install --version '~> 0.9' rb-fsevent
+   92  li
+   93  il
+   94  gem update
+   95  sass --watch.
+   96  --trace
+   97  gem install sass
+   98  gem uninstall bundler-unload
+   99  gem install rubygems-bundler
+  100  gem cleanup
+  101  cd ~/Documents/rails_one_click; export PATH=~/Documents/rails_one_click/ruby/bin:$PATH; clear
+  102  gem install rails
+  103  gem install ruby
+  104  install
+  105  gem install rails
+  106  sass --version
+  107  sass test.scss
+  108  /desktop
+  109  dir
+  110  ruby update
+  111  gem update
+  112  gem install rubygems
+  113  gem install rubygems-bundler
+  114  gem list
+  115  gem clean
+  116  gem list
+  117  gem update
+  118  newfile
+  119  new file
+  120  dog
+  121  ls
+  122  /treebook
+  123  treebook
+  124  ~treebook
+  125  .treebook
+  126  ls
+  127  cd treebook
+  128  ls
+  129  cd
+  130  cd
+  131  ls -l
+  132  ls -a
+  133  ls -a -l
+  134  pwd
+  135  cd documents
+  136  li
+  137  ls
+  138  pwd
+  139  cd /
+  140  ls
+  141  pwd
+  142  /users
+  143  cd /users
+  144  pwd
+  145  ls
+  146  cd ~
+  147  pwd
+  148  cd documents
+  149  cd..
+  150  pwd
+  151  cd ..
+  152  ls
+  153  cd grit
+  154  ls
+  155  less API.txt
+  156  cd~
+  157  cd ~
+  158  clear
+  159  nano
+  160  whoami
+  161  sass
+  162  top
+  163  sass ?
+  164  ps
+  165  ps aux
+  166  ps
+  167  ps aux
+  168  jobs
+  169  ls
+  170  cd Projects/Web
+  171  ls
+  172  cd Treehouse Saas
+  173  Treehouse Saas
+  174  cd /Treehouse Saas
+  175  cd Treehouse-Saas
+  176  ls
+  177  TreehouseSaas
+  178  cd TreehouseSaas
+  179  cd Treehouse_Saas
+  180  cd Projects/Web/Treehouse Saas
+  181  Treehouse Saas
+  182  cd Treehouse Saas
+  183  Web/Treehouse Saas
+  184  /Treehouse Saas
+  185  env
+  186  TreehouseSaas
+  187  cd TreehouseSaas
+  188  cd Treehouse Saas
+  189  ..
+  190  cd ..
+  191  cd Web/Treehouse Saas
+  192  cd~
+  193  cd ~
+  194  which sass
+  195  which "Treehouse Sass"
+  196  which Treehouse Sass
+  197  which echo
+  198  env
+  199  find Treehous Sass
+  200  find Treehouse Sass
+  201  ls
+  202  Projects/Web/"Treehouse Sass"
+  203  Projects
+  204  cd Projects/Web/"Treehouse Sass"
+  205  cd Projects/Web
+  206  ls
+  207  cd "Treehouse Sass"
+  208  find Treehouse Sass
+  209  ls
+  210  cd Treehouse Saas
+  211  ls
+  212  cd "Treehouse Saas
+  213  cd
+  214  HOME
+  215  grep
+  216  ?
+  217  help
+  218  run
+  219  help
+  220  exec
+  221  inkscape
+  222  dir
+  223  ..
+  224  init
+  225  cd
+  226  cd/
+  227  ..
+  228  cd-
+  229  -cd
+  230  help
+  231  return
+  232  n
+  233  ls -a
+  234  git status
+  235  rm-rf.git
+  236  rm -rf.git
+  237  rm -rf .git
+  238  ls -a
+  239  cd projects
+  240  ls
+  241  cd SWIFT
+  242  ls
+  243  cd Code\ Fellows\ iOS\ Foundations\ II/
+  244  ls
+  245  mkdir Homework
+  246  cd Homework
+  247  gitinit
+  248  git init
+  249  cd..
+  250  cd ..
+  251  pwd
+  252  ls
+  253  cd Desktop/
+  254  ls
+  255  cd ..
+  256  ls
+  257  cd Projects/SWIFT
+  258  ls
+  259  cd Code
+  260  cd Code\ Fellows\ iOS\ Foundations\ II/
+  261  ls
+  262  cd Homework
+  263  ls
+  264  git add Session 1.playground
+  265  git add
+  266  git add .Session 1.playground
+  267  git add Session\ 1.playground/
+  268  git status
+  269  git commit -m "added first Code Fellows Assignment"
+  270  cd
+  271  ls
+  272  Projects/SWIFT/Code\ Fellows\ iOS\ Foundations\ II/
+  273  ls
+  274  cd Projects/Swift
+  275  ls
+  276  cd Code\ Fellows\ iOS\ Foundations\ II/
+  277  git remote add origin https://github.com/EricMentele/iOS-Foundations-II-Assignments.git
+  278  git push -u origin master
+  279  LS
+  280  cd Homework
+  281  git status
+  282  git remote add origin https://github.com/EricMentele/iOS-Foundations-II-Assignments.git
+  283  git push -u origin master
+  284  git remote -v
+  285  --help
+  286  git --hel[
+  287  git --help
+  288  git help -a
+  289  git ls-remote
+  290  sudo vi /etc/auto_master
+  291  sudo automount -vc
+  292  mkdir ${TMPDIR}/com.apple.IconServices
+  293  mkdir ${TMPDIR}/com.apple.IconServices
+  294  ls
+  295  cd Projects/Swift
+  296  ls
+  297  cd Code\ Fellows\ iOS\ Foundations\ II/
+  298  ls
+  299  cd sea-c24-iOS-F2-master/
+  300  cd
+  301  cd
+  302  cd..
+  303  cd
+  304  cd ..
+  305  ls
+  306  cd ..
+  307  cd
+  308  l
+  309  ls
+  310  cd Projects/SWIFT
+  311  ls
+  312  cd Code\ Fellows\ iOS\ Foundations\ II/
+  313  ls
+  314  cd Homework
+  315  ls
+  316  git commit iOS\ Foundations\ II\ Assignment\ 2/
+  317  ls
+  318  ls -A
+  319  touch nano .bash_profile
+  320  cd ..
+  321  ls
+  322  ls -a
+  323  cd~
+  324  cd ~
+  325  touch .bash_profile
+  326  ls -a
+  327  export EDITOR=nano
+  328  open .bash_profile
+  329  ls
+  330  rm .bash_profile
+  331  rm nano
+  332  touch .bash_profile
+  333  source .bash_profile
+  334  ls
+  335  -v
+  336  ls
+  337  cd Projects/SWIFT
+  338  ls
+  339  cd Code\ Fellows\ iOS\ Foundations\ II/
+  340  cd Homework
+  341  ls
+  342  git add iOS Foundations II Assignment 3
+  343  git status
+  344  git add iOS Foundations II Assignment 3/
+  345  git add <iOS\ Foundations\ II\ Assignment\ 
+  346  git add iOS\ Foundations\ II\ Assignment\ 3
+  347  ls
+  348  cd projects
+  349  cd SWIFT/SWIFT\ learning/
+  350  git init
+  351  git add -a
+  352  git add -A
+  353  git status
+  354  git add -A
+  355  git status
+  356  git status
+  357  cd projects
+  358  ls
+  359  cd SWIFT
+  360  ls
+  361  cd SWIFT learning
+  362  cd SWIFT\ learning/
+  363  git remote add origin https://github.com/EricMentele/SWIFT-learning.git
+  364  ls
+  365  cd Projects/
+  366  cd SWIFT/
+  367  ls
+  368  cd Code\ Fellows\ iOS\ Foundations\ II/
+  369  cd Homework/
+  370  ls
+  371  git add iOS Foundations II Assignment 4
+  372  git add -A
+  373  git status
+  374  cd homework
+  375  cd HOMEWORK
+  376  ls
+  377  cd Projects
+  378  cd SWIFT
+  379  cd Code\ Fellows\ iOS\ Foundations\ II/
+  380  cd Homework/
+  381  ls
+  382  git add -A
+  383  git status
+  384  ls
+  385  ls
+  386  git status
+  387  ls
+  388  Projects
+  389  cd Projects
+  390  cd SWIFT
+  391  cd Code\ Fellows\ iOS\ Foundations\ II/
+  392  cd Homework
+  393  ls
+  394  git status
+  395  git add -A
+  396  git status
+  397  /Library/Application Support/MacKeeper
+  398  ls
+  399  cd Library
+  400  ls
+  401  cd Application\ Support/
+  402  ls
+  403  rm MacKeeper
+  404  help
+  405  sudo tmutil disablelocal
+  406  ls
+  407  cd..
+  408  cd Documents/
+  409  ls
+  410  cd..
+  411  pwd
+  412  cd.
+  413  cd..
+  414  ~
+  415  ls
+  416  pwd
+  417  cd ..
+  418  cd 
+  419  pwd
+  420  cd Projects/
+  421  cd
+  422  pwd
+  423  cd Projects
+  424  cd SWIFT
+  425  pwd
+  426  cd
+  427  pwd
+  428  cd /
+  429  ls
+  430  cd Network
+  431  ls
+  432  cd
+  433  pwd
+  434  ls
+  435  cd /
+  436  ls -l
+  437  ls -lt
+  438  ls -r
+  439  ls
+  440  ls -rt
+  441  ls -lrt
+  442  ls -lt
+  443  ls
+  444  ls -t
+  445  cd Volumes
+  446  ls
+  447  help
+  448  l ls
+  449  ls help
+  450  ls man
+  451  man ls
+  452  -a
+  453  ls -a
+  454  cd
+  455  ls -a
+  456  ls -A
+  457  --all
+  458  ls -a
+  459  ls -A
+  460  ls -b
+  461  ls -a
+  462  ls
+  463  ls -A
+  464  ls -a
+  465  ls -C
+  466  ls -d
+  467  ls -f
+  468  ls -t
+  469  ls -ta
+  470  ls -tal
+  471  ls
+  472  ls -h
+  473  ls -hl
+  474  ls -i
+  475  ls -n
+  476  ls -R
+  477  cd ..
+  478  ls
+  479  cd
+  480  ls
+  481  cd/Applications/SWIFT/
+  482  cd Applications/
+  483  cd SWIFT
+  484  ls
+  485  ls
+  486  pwd
+  487  ls
+  488  cd ..
+  489  cd Projects/SWIFT
+  490  ls
+  491  cd C
+  492  cd
+  493  ls
+  494  ls
+  495  public
+  496  ls -l
+  497  cd Desktop
+  498  ls -l
+  499  ls -l
+  500  cd treebook/
+  501  ls
+  502  cd lib
+  503  ls
+  504  pwd
+  505  cd
+  506  ls
+  507  cd ..
+  508  ls
+  509  cd
+  510  ls
+  511  cd Pictures
+  512  ls
+  513  cd ..
+  514  ls
+  515  cd Library
+  516  ls
+  517  cd GameKit
+  518  ls
+  519  cd ..
+  520  ls
+  521  cd Logs
+  522  ls
+  523  cd Ubiquity/
+  524  ls
+  525  cd ..
+  526  cd MacKeeper.log
+  527  ls
+  528  cd MacKeeper.log
+  529  cd MacKeeper.log.signed
+  530  rm MacKeeper.log
+  531  rm MacKeeper.log.signed
+  532  ls
+  533  man cd
+  534  ls
+  535  cd ..
+  536  ls
+  537  cd Accounts
+  538  ls
+  539  cd ..
+  540  cd Application\ Scripts
+  541  ls
+  542  cd ..
+  543  cd Caches
+  544  ls
+  545  ls
+  546  cd ..
+  547  ls
+  548  $ cd
+  549  cd Dictionaries/
+  550  ls
+  551  cd ..
+  552  cd ..
+  553  ls ~
+  554  ls ~
+  555  ls /bin
+  556  ls
+  557  ls /bash -l
+  558  ls -l /bash
+  559  ls -l\ /bash
+  560  ls /etc -l
+  561  ls .
+  562  pwd
+  563  cd Public
+  564  ls
+  565  ls ...
+  566  ls
+  567  cd ..
+  568  man bash
+  569  history
+  570  history | less
+  571  cd
+  572  history > moving_around.txt
